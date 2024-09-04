@@ -2,8 +2,7 @@
 
 This repository image contain the following features:
 
-- PHP 8.3
-- Nginx
+- PHP 8.3 (FPM)
 - Composer
 - Redis
 - PHP Ext: pdo_mysql mbstring exif pcntl bcmath gd sockets
