@@ -5,7 +5,7 @@ This repository image contain the following features:
 - PHP 8.3 (FPM)
 - Composer
 - Redis
-- PHP Ext: pdo_mysql mbstring exif pcntl bcmath gd sockets
+- PHP Ext: pdo_mysql pdo_sqlite mbstring exif pcntl bcmath gd sockets
 - Nodejs 20.17
 - NPM
 
